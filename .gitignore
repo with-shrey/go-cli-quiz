@@ -1,0 +1,4 @@
+.vscode
+./temp*
+cmd/cli/problems.csv
+cmd/cli/cli
